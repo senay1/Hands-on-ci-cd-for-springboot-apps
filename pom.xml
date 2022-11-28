@@ -58,6 +58,9 @@
 						<goals>
 							<goal>report</goal>
 						</goals>
+						<configuration> 
+							<finalName>jenknexus</finalName>
+						</configuration>
 					</execution>
 				</executions>
 			</plugin>
